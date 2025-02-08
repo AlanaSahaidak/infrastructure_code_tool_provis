@@ -16,8 +16,6 @@ This automation sets up an AWS infrastructure using Terraform and deploys Elasti
 
 - Security Groups
 
-A Security Group (aws_security_group.terraform_elastic_sg) allowing:
-
 - EC2 Instance
 
 
